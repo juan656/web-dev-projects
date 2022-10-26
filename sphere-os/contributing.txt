@@ -1,0 +1,22 @@
+﻿This file contains guidlines for commit messages
+
+the sytax of a commit message:
+[main commit type]/[commit type]/[commit size]: [meaning-full commit message]
+
+
+main commit types -
+	fix - fixes
+	feat - new features/updates
+	doc - doc changes or additions
+	other - can not be categorized
+	codeDoc - code comments that describe code
+
+commit types -
+	kernel - changes to kernel
+	commands - changes to commands
+	other - changes to other parts of the os
+
+commit size -
+	small - small changes that dosent break other stuff
+	large - changes that breaks other stuff
+	na - not aplicable
